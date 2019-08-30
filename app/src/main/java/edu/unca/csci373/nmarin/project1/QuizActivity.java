@@ -9,7 +9,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class QuizActivity extends AppCompatActivity {
-
+    //comment
     private static final String TAG = "QuizActivity";
     private static final String KEY_INDEX = "index";
     private Button mTrueButton;
